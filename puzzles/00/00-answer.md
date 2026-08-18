@@ -19,3 +19,11 @@ Here is how you can determine the fake coin by using the balance only two times.
 	- Take 2 coins from that lighter 3-coin stack and compare.
 	- If both equal, then the third is the fake coint.
 	- If both not equal, then the lighter one is the fake one.
+
+--- 
+
+[Click to go back to the original puzzle.](00-puzzle.md)
+
+[Go to root.](/README.md)
+
+[Go to puzzles.](/puzzles/README.md)
