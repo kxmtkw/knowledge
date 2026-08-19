@@ -1,43 +1,4 @@
-# Introduction
-
-Programming is the art or skill of instructing a computer to do something.
-Computers are programmed/instructed using languages.
-
-This is the basic introduction of programming languages and computers in general.
-
-
-## Computer Organization
-
-A computer consists of several parts that work together. By functionality, a computer can be divided into three kinds of parts:
-
-- IO devices for input and output of data.
-- Storage devices for storing data.
-- Processing devices for processing data.
-
-
-### IO
-
-Input devices take in input data for the computer. For example, mouse, keyboard, camera, touchpad, mic etc.
-Output devices are used to show data. For example, screens, speakers, LEDs etc.
-
-
-### Storage
-
-Storage devices are used to store data. For example, SSDs and HDDs.
-
-
-### Processing
-
-The main processing device in any computer is the CPU.
-CPU, standing for **Central Processing Unit**, is the heart of a computer.
-It is the main component doing all calulations.
-It also has several sub components:
-
-- Control Unit manages the whole CPU, executing instructions an routing data.
-- ALU, **Arithmetic Logic Unit**, does calculations and performs operations.
-
-
-## A computer's language
+## A Computer's Language
 
 Computers only understand binary. This is because:
 
@@ -54,6 +15,7 @@ Fetch -> Decode -> Execute
 
 
 ### Bit
+
 The smallest possible piece of information that can be provided in binary is whether something is on or off. One and Zero.
 
 `A bit is defined as a single binary digit which can hold only 2 values, either 1 or 0.`
@@ -65,6 +27,7 @@ $$
 A bit is the most basic form of information possible.
 
 Bits by themselves are kind of useless, what are you gonna do with a single digit? Computers also do NOT work on individual bits.
+
 
 ### Bytes and Nibbles
 
