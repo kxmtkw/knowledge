@@ -1,0 +1,15 @@
+# Index
++ [README.md](README.md)
++ [index.md](index.md)
+## Cs
+### `General`
++ [ascii-table.md](cs/general/ascii-table.md)
+### `Information-Tech`
+### `Programming-Basics`
++ [00-language-of-computers.md](cs/programming-basics/00-language-of-computers.md)
+## Math
+### `Calculus`
++ [00-functions.md](math/calculus/00-functions.md)
+## Puzzles
++ [00-answer.md](puzzles/00-answer.md)
++ [00-puzzle.md](puzzles/00-puzzle.md)

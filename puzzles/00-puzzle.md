@@ -9,5 +9,3 @@ Using the balance scale `at most two times`, identify the counterfeit coin.
 [Click to see answer.](00-answer.md)
 
 [Go to root.](/README.md)
-
-[Go to puzzles.](/puzzles/README.md)
