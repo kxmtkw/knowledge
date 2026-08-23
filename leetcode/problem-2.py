@@ -38,12 +38,8 @@ class Solution(object):
 		# summing up the digits and resolving the carry
 
 		sum = d1 + d2 + carry
-
-		if sum > 9:
-			sum = sum - 10
-			carry = 1
-		else:
-			carry = 0
+		carry = sum // 10
+		sum = sum % 10
 
 		# make the node for the current result and try to resolve the next pair of digits
 
