@@ -121,6 +121,7 @@ For c > 1:
 For c = -1:
 - $y = -f(x)$ causes reflection across x axis.
 - $y = f(-x)$ causes reflection across y axis.
+- $y = -f(-x)$ causes reflection across the origin.
 
 
 ## Determining Domains and Ranges

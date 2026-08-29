@@ -2,15 +2,9 @@ from pathlib import Path
 
 IGNORE_DIRS = ["utils"]
 
-def depth_filter(header: str, depth: int) -> str:
-	match depth % 3:
-		case 0:
-			return f"# {header}"
-		case 1:
-			return f"## {header}"
-		case _:
-			return f"### `{header}`"
-		
+def depth_header(header: str, depth: int) -> str:
+	return f"{'#'*depth} {header}"
+
 
 def generate_index(md: list[str] = [], directory: Path = Path("."), depth=1) -> list[str]:
 
@@ -36,7 +30,7 @@ def generate_index(md: list[str] = [], directory: Path = Path("."), depth=1) -> 
 
 	sub_directories.sort()
 	for dir in sub_directories:
-		md.append(depth_filter(dir.name.title(), depth))
+		md.append(depth_header(dir.name.title(), depth))
 		generate_index(md, dir, depth + 1)
 
 
