@@ -1,17 +1,10 @@
 ## Functions
-
-A mapping from set X to set Y.
-
-$$
-y = f(x)
-$$
-
+A mapping from set X to set Y. $$y = f(x)$$
 - Domain: X
 - Co-Domain: Y
 - Range: R (subset of Y)
 
-### Function Types
-
+#### Function Examples
 - Ceiling function / Least integar
 - Floor function / Greatest integar
 - Square root function
@@ -41,20 +34,21 @@ $$
 - Exponential functions
 - Logarithmic functions
 
-
-### Vertical Line Test
-
+## Vertical Line Test
 - Intesect once -> Function
 - Intersect multiple times -> Not a function
 
-### Horizontal Line Test
-
+## Horizontal Line Test
 - Intersect once -> Each y is only given by one x -> one-one function -> inverse exists
 - Intersect multiple times -> A single y is given by multiple x -> not one-one -> inverse does not exist
 
 ### Piece-Wise Defined Function
-
+A function that is defined differently depending upon its input. For these functions, both the left and the right hand limit must be evaluated b
+efore finding the limit.
 ### Increasing / Decreasing Functions
+A function such that $f(x)$ increases as $x$ is increased is an increasing function and a function such that $f(x)$ decreases as $x$ is increased is a decreasing function.
+
+> For the latter, the derivative is positive while for the former, the derivative is negative.
 
 ### Proportionality
 `Two variables y and x are proportional to one another if one is a constant multiple of the other.`
@@ -63,11 +57,9 @@ y = kx
 $$
 Inversely proportional if it is a multiple of `1/x`
 
-
 ## Combining Functions
 
 ### Via operations
-
 Functions f and g can be added, subtracted, multiplied and divided. In each case, domain is:
 $$
 D(f.g) = D(f) \cap D(g)
@@ -76,7 +68,6 @@ $$
 - $g(x) \neq 0$ if $.$ is $/$
 
 ### Via composition
-
 Functions f and g are combined.
 $$
 (f.g)(x) = fg(x) = f(g(x))
@@ -84,7 +75,6 @@ $$
 - Range of g lies in the domain of f.
 - The domain of fg is the set of numbers for which g(x) lies in the domain of f.
 - fg != gf
-
 
 ## Shifting and Scaling Function Graphs
 
@@ -118,6 +108,7 @@ For c > 1:
 
 > All scaling is done by the factor of c.
 
+#### Refection
 For c = -1:
 - $y = -f(x)$ causes reflection across x axis.
 - $y = f(-x)$ causes reflection across y axis.
