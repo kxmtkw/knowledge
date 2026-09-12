@@ -3,12 +3,12 @@ from pathlib import Path
 IGNORE_DIRS = ["utils"]
 
 def depth_header(header: str, depth: int) -> str:
-	return f"{'#'*depth} {header}"
+	return f"{'	'*depth} + `{header}`"
 
 
-def generate_index(md: list[str] = [], directory: Path = Path("."), depth=1) -> list[str]:
+def generate_index(md: list[str] = [], directory: Path = Path("."), depth=0) -> list[str]:
 
-	if depth == 1: md.append("# Index")
+	if depth == 0: md.append("### Index")
 
 	sub_directories = []
 	files = []
@@ -26,7 +26,7 @@ def generate_index(md: list[str] = [], directory: Path = Path("."), depth=1) -> 
 
 	files.sort()
 	for file in files:
-		md.append(f"+ [{file.name}]({file})")
+		md.append("	" * depth +f"+ [{file.name}]({file})")
 
 	sub_directories.sort()
 	for dir in sub_directories:
