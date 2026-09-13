@@ -72,4 +72,3 @@ No Classes
 | **Friday** | Run / Light workout, English practice, Self-learning (Finance / Computers), Coding (*Cute* runtime), Watch media / read manga |
 | **Saturday** | Run / Light workout, University coursework (Calculus, PF, ICT), University coursework (English, ISL, Seerat, Ideology), Coding (*Cute* runtime) or LeetCode *(Optional)*, Watch media / read manga |
 | **Sunday** | Rest / Light walk, Free time / Socialize, Watch media / read manga |
-

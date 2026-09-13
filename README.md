@@ -27,11 +27,6 @@ Array is a data structure that stores data in continuous memory locations.
 - set
 ```
 
-## Index
-
-Refer to the index to find stuff easily: [Index](index.md)
-
-
 ## Installing
 
 > [!NOTE]

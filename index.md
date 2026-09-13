@@ -1,37 +1,45 @@
-# Index
+### Index
 + [README.md](README.md)
 + [important.md](important.md)
-+ [index.md](index.md)
 + [plan.md](plan.md)
-# Chess
-# Cs
-## Cs-Basics-(Ict)
-+ [00-number-systems.md](cs/cs-basics-(ict)/00-number-systems.md)
-+ [01-signedness-in-binary.md](cs/cs-basics-(ict)/01-signedness-in-binary.md)
-## General
-+ [ascii-table.md](cs/general/ascii-table.md)
-## Programming-Basics
-+ [00-computation.md](cs/programming-basics/00-computation.md)
-# English
-## Books
-### Model-For-Writers
-## Reading
-+ [00-main-idea.md](english/reading/00-main-idea.md)
-+ [01-style.md](english/reading/01-style.md)
-+ [02-tone.md](english/reading/02-tone.md)
-+ [03-purpose.md](english/reading/03-purpose.md)
-# Humanities
-## Ideology-Of-Pakistan
-+ [00-colonialism.md](humanities/ideology-of-pakistan/00-colonialism.md)
-## Islamic-Studies
-+ [00-religion.md](humanities/islamic-studies/00-religion.md)
-# Leetcode
-+ [problem-1.py](leetcode/problem-1.py)
-+ [problem-2.py](leetcode/problem-2.py)
-+ [problem-4.py](leetcode/problem-4.py)
-+ [problem-9.py](leetcode/problem-9.py)
-# Math
-## Calculus
-+ [00-functions.md](math/calculus/00-functions.md)
-+ [01-limits.md](math/calculus/01-limits.md)
-# Useful
+ + `Chess`
+	+ [00-kasparovs-rules.md](chess/00-kasparovs-rules.md)
+ + `Cs`
+	+ [terms.md](cs/terms.md)
+	 + `Cs-Basics`
+		+ [00-number-systems.md](cs/cs-basics/00-number-systems.md)
+		+ [01-signedness-in-binary.md](cs/cs-basics/01-signedness-in-binary.md)
+		+ [02-cpu.md](cs/cs-basics/02-cpu.md)
+		+ [03-operating-systems.md](cs/cs-basics/03-operating-systems.md)
+	 + `General`
+		+ [ascii-table.md](cs/general/ascii-table.md)
+	 + `Programming-Basics`
+		+ [00-computation.md](cs/programming-basics/00-computation.md)
+ + `English`
+	 + `Reading`
+		+ [00-main-idea.md](english/reading/00-main-idea.md)
+		+ [01-style.md](english/reading/01-style.md)
+		+ [02-tone.md](english/reading/02-tone.md)
+		+ [03-purpose.md](english/reading/03-purpose.md)
+		+ [04-literary-devices.md](english/reading/04-literary-devices.md)
+		+ [05-patterns-of-organizations.md](english/reading/05-patterns-of-organizations.md)
+	 + `Speaking`
+		+ [00-how-to-be-confident.md](english/speaking/00-how-to-be-confident.md)
+ + `Humanities`
+	 + `Ideology-Of-Pakistan`
+		+ [00-colonialism.md](humanities/ideology-of-pakistan/00-colonialism.md)
+		+ [01-muslim-nationalism.md](humanities/ideology-of-pakistan/01-muslim-nationalism.md)
+	 + `Islamic-Studies`
+		+ [00-religion.md](humanities/islamic-studies/00-religion.md)
+		+ [01-islam.md](humanities/islamic-studies/01-islam.md)
+ + `Leetcode`
+	+ [problem-1.py](leetcode/problem-1.py)
+	+ [problem-2.py](leetcode/problem-2.py)
+	+ [problem-4.py](leetcode/problem-4.py)
+	+ [problem-9.py](leetcode/problem-9.py)
+ + `Math`
+	 + `Calculus`
+		+ [00-functions.md](math/calculus/00-functions.md)
+		+ [01-limits.md](math/calculus/01-limits.md)
+		+ [02-derivatives.md](math/calculus/02-derivatives.md)
+ + `Useful`
