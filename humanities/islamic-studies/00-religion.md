@@ -1,6 +1,25 @@
 # Religion
 
-`Religion is a range/collection of social-cultural systems which include behaviours, ethics, morals, worldviews and texts that relate humanity to supernatural and spiritual elements`
+## Definition
+
+>Religion is a range/collection of social-cultural systems which include behaviours, ethics, morals, worldviews and texts that relate humanity to supernatural and spiritual elements`
+
+David Emile defines it as *"unified system of belief and practices relative to sacred things"*.
+
+### Etymology
+
+Religion derived from:
+- Latin -> *religionem*: Reverence for the God
+- French -> *religiun*: Respect for the sacred
+
+> reverence: deep feeling of admiration
+
+### Prespectives
+
+**Western** -> Religion is conceptualized as a matter of thought and belief, and that it remains seperated from politics and state.
+**Eastern** -> Religion is divine knowledge that not only provokes thought but is a compiled code for every aspect of life.
+
+### Count
 
 - Over 10,000 distint worldwide religions.
 - Top 4 religions in terms of popularity:
@@ -9,11 +28,26 @@
 	3. Hinduism
 	4. Buddhism
 
-- Religion derived from:
-	- Latin -> *religionem*: Reverence for the God
-	- Frence -> *religion*: Respect for the sacred
+# Theology
 
-> reverence: deep feeling of admiration
+## Definition
+
+> Theology is the systematic study of the divine, religious beliefs, practices and sacred texts.
+
+### Etymology
+
+Theology derived from two greek words:
++ *Theo* -> God
++ *Logos* -> Word/Reason
+## Concepts
+
+Some major concepts of theology:
+1. Monotheism
+2. Eschatology
+3. Theodicy
+4. Soteriology
+5. Christology
+6. Prophethood
 
 ## Beliefs
 
@@ -37,84 +71,13 @@
 	- Sikhism
 	- Taoism
 
-## A Gist of Religions
+## Who?
 
-### Islam
-- Abrahamic Monotheistic Religion.
-- Revealed in the 7th century AD in the Arabian Peninsula.
-- God (Allah) revealed His final scripture, the Quran, to Muhammad (SAW) through the angel Gabriel.
-- Core beliefs include:
-	1. Belief in one God
-	2. Angels
-	3. Divine scriptures
-	4. Prophets
-	5. The Day of Judgment
-	6. Predestination
-- Practice is guided by the Five Pillars: 
-	1. Shahada (profession of faith)
-	2. Salah (performing ritual prayers five times daily facing Mecca)
-	3. Zakat (charitable giving)
-	4. Sawm (fasting during the holy month of Ramadan)
-	5. Hajj (pilgrimage to Mecca at least once in a lifetime for those who are able)
-- Sacred texts include:
-	- Quran
-	- Hadeeth (recorded traditions and sayings of the Prophet)
-- Two major denominations:
-	- Sunnia
-	- Shia
-- Over 1.9 billion followers.
+Religion asks the core question of *who created existence?*
+Phenomena that maybe cause this question to occur in the mind:
+1. A universe beyond imagination
+2. Atoms, order in the invisible world
+3. Why anything instead of nothing?
 
-### Christianity
-- Abrahamic monotheistic religion
-- 1st century AD in the Levant region of Judea
-- It is based on the life, teachings, death, and resurrection of Jesus of Nazareth, whom followers believe to be the Messiah (Christ) and the Son of God.
-- Core tenets on the Trinity and the salvation from sin through faith in Christ:
-	1. God as Father
-	2. Son
-	3. Holy Spirit
-- Three primary branches:
-	1. Roman Catholicism
-	2. Eastern Orthodoxy
-	3. Protestantism
-- Religious text is the Holy Bible which includes the old testament and the new testament.
-- Over 2.4 billion followers
-
-### Judaism
-- Oldest Abrahamic monotheistic religion
-- Over 2500 years ago in Middle East through covenant between God and Abraham (AS)
-- The central belief is the existence of one singular, omnipotent God who established a divine laws-based relationship with the Jewish people.
-- Religious text includes the Torah, supplemented by the Talmud, an extensive collection of rabbinic oral interpretations and jurisprudence.
-- 15 million followers.
-### Hinduism
-- One of the oldest continous religions
-- Roots dating back to over 4000 years in the Indus Valley region of South Asia
-- Core concepts include Karma (cause and effect governing rebirth), Dharma (righteous ethical duty), Samsara (the continuous cycle of reincarnation), and Moksha (liberation from reincarnation).
-- Followwed worship ultimate reality (Brahman), often expressed through various deities.
-- Sacred texts include Vedas, Upanishads and Gita.
-- Over 1.2 billion followers
-
-### Taoism (Daoism)
-- Indigenous Chinese philosphy
-- In ancient China around 6th century BCE, traditionally attributed to philospher Laozi.
-- The core principle centers on the "Tao" (the Way), an undefining, underlying natural order and force that governs the cosmos, rather than worshipping a supreme creator God.
-- A central concept is Wu Wei (effortless or natural action), along with balancing dualistic forces (Yin and Yang).
-- A central concept is Wu Wei (effortless or natural action), along with balancing dualistic forces (Yin and Yang).
-
-### Sikhism
-- Monotheistic religion
-- Late 15th century CE by Guru Nanak in Punjab, India.
-- The faith centers on belief in one supreme, formless Creator (_Ik Onkar_) and stresses the spiritual equality of all human beings regardless of caste, gender, or ethnicity.
-- A sequence of ten human Gurus shaped the religion until 1708, when the spiritual authority was transferred to the sacred scripture, the _Guru Granth Sahib_.
-- 20-30 million followers
-
-### Buddhism
-- Non-theistic religion
-- Established in northern India during the 5th century BCE by Siddhartha Gautama, who became known as the Buddha ("The Awakened One").
-- Focuses on understanding the nature of existence.
-- 500 million followers
-
-### Zoroastrianism
-- One of the oldest monotheistic religion
-- Founded by prophet Zarathustra in ancient Persia around 1500-1000 BCE
-- The religion asserts the existence of one supreme God, Ahura Mazda (the Wise Lord), who represents absolute goodness and truth. Existence is understood as a cosmic struggle between Ahura Mazda and the evil spirit, Angra Mainyu.
-- 100k-200k followers, mainly in India and Iran
+> [!quote] Quran (52:35)
+> *Were they created by nothing, or are they themselves their creator?*
