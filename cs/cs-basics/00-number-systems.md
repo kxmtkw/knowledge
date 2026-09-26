@@ -11,18 +11,18 @@
 
 ### `From Decimal`
 
-##### To Binary
+#### To Binary
 By Long Division with divider as 2
 
-##### To Octal
+#### To Octal
 By Long Division with divider as 8
 
-##### To Hexadecimal
+#### To Hexadecimal
 By Long Division with divider as 16.
 
 ### `From Binary`
 
-##### To Decimal
+#### To Decimal
 Compute the decimal number by iterating over the binary digits from the right.
 ```python
 binary = "1110"
@@ -32,34 +32,34 @@ digits = list(reversed(binary))
 decimal = sum([(2 ** i) * int(digits[i]) for i in range(len(digits))])
 ```
 
-##### To Octal
+#### To Octal
 Divide the binary number into sets of 3 digits and convert each group to decimal and place them together.
 - 3 binary digits can hold 8 values.
 
-##### To Hexadecimal
+#### To Hexadecimal
 Divide the binary number into sets of 4 digits and convert each group to decimal and place them together. Map 10-15 to A-F.
 - 4 binary digits can hold 16 values.
 
 ### `From Octal`
 
-##### To Binary
+#### To Binary
 Write the binary representation of each octal digit and simply write them together.
 
-##### To Decimal
+#### To Decimal
 Same as Binary to Decimal. Compute value of each digit and add but this time each digit is multiplied by $8^n$.
 
-##### To Hexadecimal
+#### To Hexadecimal
 Too complicated to do manually, use binary as proxy.
 
 ### `From Hexadecimal`
 
-##### To Binary
+#### To Binary
 Write the binary representation of each hexadecimal digit and simply write them together.
 
-##### To Octal
+#### To Octal
 Use binary as proxy.
 
-##### To Decimal
+#### To Decimal
 Same as Binary to Decimal. Compute value of each digit and add but this time each digit is multiplied by $16^n$.
 
 
@@ -71,7 +71,6 @@ Same as Binary to Decimal. Compute value of each digit and add but this time eac
 | **Binary**      | Positional expansion: $\sum (d_i \cdot 2^i)$ from right to left.  | —                                                                | Group bits into sets of 3 from right to left; map each group to 0–7.            | Group bits into sets of 4 from right to left; map each group to 0–9, A–F.          |
 | **Octal**       | Positional expansion: $\sum (d_i \cdot 8^i)$ from right to left.  | Expand each octal digit into its equivalent 3-bit binary string. | —                                                                               | Convert to Binary (3-bit groups) first, then regroup into 4-bit sets for Hex.      |
 | **Hexadecimal** | Positional expansion: $\sum (d_i \cdot 16^i)$ from right to left. | Expand each hex digit into its equivalent 4-bit binary string.   | Convert to Binary (4-bit groups) first, then regroup into 3-bit sets for Octal. | —                                                                                  |
-|                 |                                                                   |                                                                  |                                                                                 |                                                                                    |
 
 
 > [!info]

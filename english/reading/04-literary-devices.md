@@ -1,5 +1,5 @@
 ## Simile
-When a comparison between two different objects is made because of some shared quality.
+`When a comparison between two different objects is made because of some shared quality.`
 
 For example,
 + He is as brave as a lion.

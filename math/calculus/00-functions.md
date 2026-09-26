@@ -13,6 +13,7 @@ A mapping from set X to set Y. $$y = f(x)$$
 - Square function
 - Absolute function
 
+> [!tip]
 > Imagine ceiling and floor functions as actual floors of a building with the integars as the floor numbers.
 
 - Even functions
@@ -40,6 +41,7 @@ $$
 ### Increasing / Decreasing Functions
 A function such that $f(x)$ increases as $x$ is increased is an increasing function and a function such that $f(x)$ decreases as $x$ is increased is a decreasing function.
 
+> [!note] 
 > For the latter, the derivative is positive while for the former, the derivative is negative.
 
 
@@ -104,9 +106,8 @@ For c > 1:
 - $y = f(cx)$ causes horizontal compression.
 - $y = f(x/c)$ causes horizontal stretch.
 
-> Vertical stretch = Horizontal compress & Vertical compress = Horizontal stretch
-
-> All scaling is done by the factor of c.
+> [!tip]
+   Vertical stretch = Horizontal compress & Vertical compress = Horizontal stretch
 
 #### Refection
 For c = -1:
@@ -120,9 +121,18 @@ For c = -1:
 ### Domains
 For domains, simply assume the domain to be $R$ and then determine the intervals in the function is defined or not.
 
+> [!tip]
+> A function might have more than one condition where it maybe undefined.
+> Like a square root function in the denominator needs to check for:
+> 1. When the square root is undefined.
+> 2. When the denominator is zero.
+
 ### Ranges
 Ranges are a bit hard. Few strategies include:
 - Finding inverse and determining where the function $x = f^{-1}(y)$ is defined. The domain of the inverse is the range of the original.
 - Split the function into intervals where it becomes invertible (if not invertible). Intervals must be strictly increasing or decreasing so horizontal line test can pass.
 - Use calculus. Determine critical points and edges. The range is within the absolute extrema.
 - For standard functions like say the parabola, $y = ax^2 + bx + c$, the range is $[a, \infty)$ if $a>0$ else  $(-\infty, a]$
+
+> [!tip]
+> When solving inequalities with variables in the denominator, the standard rules of solving inequalities does not apply. The domain must be divided into intervals using asymptotes and then the inequality must be solved for each of those intervals.

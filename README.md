@@ -46,7 +46,6 @@ git clone --depth=1 git@github.com:kxmtkw/knowledge.git
 
 or just download the zip file for ease.
 
-
 ### Updating
 
 If you want to update, just pull:

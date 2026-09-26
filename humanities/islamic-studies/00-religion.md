@@ -41,17 +41,7 @@ Theology derived from two greek words:
 + *Logos* -> Word/Reason
 ## Concepts
 
-Some major concepts of theology:
-1. Monotheism
-2. Eschatology
-3. Theodicy
-4. Soteriology
-5. Christology
-6. Prophethood
-
-## Beliefs
-
-| Belief System   | Definition                                                                                                        | Core Premise                                                                                                    | Example / Representative Figure                                                                              |
+| Concepts        | Definition                                                                                                        | Core Premise                                                                                                    | Example / Representative Figure                                                                              |
 | --------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | **Monotheism**  | Belief in the existence of exactly **one** supreme God who created rules and the universe.                        | God is a single, distinct deity who is typically personal, all-powerful, and involved in creation.              | **Islam, Judaism, Christianity.** (e.g., belief in Allah or Yahweh).                                         |
 | **Polytheism**  | Belief in **multiple** gods or deities, each often responsible for specific aspects of nature or life.            | The universe is governed by a pantheon of distinct gods with varying powers and roles.                          | **Ancient Greek Mythology** (Zeus, Poseidon, Athena) and **Ancient Egyptian Religion** (Ra, Osiris, Anubis). |

@@ -23,6 +23,7 @@ The following are essential in the world of computational thinking:
 	- Breakdown large problems into smaller ones.
 
 ### Corner-Stones
+
 1. Decomposition
 	- The art of breaking down large problems into smaller problems that are more manageable
 2. Pattern Recoginition

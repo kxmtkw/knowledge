@@ -43,3 +43,14 @@ Once the underlying relations have been translated, convert the the information 
 1. Take out the information from the passage, getting rid of any structural signals.
 2. Capture the relations of the information and translate them to the relations of the target pattern.
 3. Rewrite the passage using the new translated relations.
+
+## Signal Words
+
+| **Pattern of Organization** | **Common Signal Words & Phrases**                                                                                                                         |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Chronological**           | First, second, then, next, finally, before, after, later, meanwhile, subsequently, initially, now, previously, until, since, dates (e.g., in 1999), times |
+| **Definition & Example**    | Is defined as, refers to, means, known as, is called, for example, for instance, such as, to illustrate, specifically, namely, an illustration of         |
+| **Cause & Effect**          | Because, due to, as a result, consequently, therefore, thus, leads to, causes, stems from, brought about, reason for, effect of                           |
+| **Compare & Contrast**      | Similarly, likewise, both, also, in comparison, however, on the other hand, in contrast, whereas, unlike, although, despite, conversely                   |
+| **Classification**          | Can be categorized as, classified into, types of, groups of, classes, divisions, categories, kinds of, consists of, falls under                           |
+| **Process**                 | Step, stage, phase, procedure, first (second, third), then, next, following this, while, simultaneously, eventually, systematically                       |

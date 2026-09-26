@@ -44,6 +44,13 @@ $$\lim_{x \to c} f(x) = L$$
 4. Divide every term by the highest power, useful for $x \to \infty$ limits.
 5. Apply theorem/formulas.
 
+> [!tip] FFRD
+> Remmber how to solve limits using `FFRD`:
+> + F -> Formulas
+> + F -> Factorization
+> + R -> Rationalization
+> + D -> Division by highest power
+
 ## Limits by Precise Definition
 
 This is also called the epsilon-delta definition of the limit. It does not calculate a limit but proves whether a proposed limit is true or not.
@@ -75,9 +82,11 @@ i.e.
 
 If any of the above two do not hold, then the limit **Does Not Exist (DNE)**.
 
-> [!info]  Limits exist at all points for polynomial functions.
+> [!info]  For polynomials
+> Limits exist at all points for polynomial functions.
 
-> [!info] The left and right hand limits can approach different values. In that case, the limit does not exist because *condition 2* was invalidated.
+> [!info] Approaching different values
+> The left and right hand limits can approach different values. In that case, the limit does not exist because *condition 2* was invalidated.
 
 ## Continuity
 
@@ -88,6 +97,9 @@ If any of the above two do not hold, then the limit **Does Not Exist (DNE)**.
 3. $\lim_{x \to c} f(x) = f(c)$ holds.
 
 If a function is continuous at $c$, it basically means that there are no jumps around or at $c$.
+
+> [!info] Differentiability implies continuity
+> If a function $f(x)$ is differentiable at $c$ i.e. $f'(c)$ exists, then $f(x)$ is continous at $c$.
 
 ### One-Sided Continuity
 
@@ -105,7 +117,7 @@ A function can also be continuous from one side if $f(c)$ equals either the left
 
 ## Asymptotes
 
-> A line on which a function graph settles as it reaches extreme values is referred to as an asymtote.
+> A line on which a function graph settles as it reaches extreme values is referred to as an asymptote.
 
 The function graph *can* touch the line and even cross it, the asymtote is just a line on which the graph seems to settle.
 

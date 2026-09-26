@@ -27,3 +27,7 @@ Can be:
 	- Must be a sentence (non-questionative)
 3. Supporting Details:
 	- Details, facts and information which supports the main idea.
+
+> [!tip]
+> `furthermore` and `moreover` are often signals for major details.
+
