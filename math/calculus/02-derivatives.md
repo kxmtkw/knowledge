@@ -1,5 +1,7 @@
 # Derivatives
 
+## Definition
+
 > The derivative of a functon $f(x)$ with respect to the variable $x$ is the function $f'$ whose value at $x$ is defined as:
 
 $$ f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
@@ -54,3 +56,14 @@ Chain rule is used for taking the derivatives of composite or nested functions. 
 
 1. Differentiate both sides of the equation with respect to $x$, treating $y$ as a differentiable function of $x$.
 2. Collect the terms with $\frac{dy}{dx}$ on one side of the equation and solve for $\frac{dy}{dx}$.
+
+# Applications of Derivatives
+
+## Extrema
+
+## Increasing / Decreasing Functions
+
+## Concavity
+
+#todo
+

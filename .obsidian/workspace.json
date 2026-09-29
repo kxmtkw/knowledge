@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b2957b599e816f67",
+        "id": "99782e399cc3e048",
         "type": "tabs",
         "children": [
           {
-            "id": "7f468c4461743700",
+            "id": "65d420a80ced3b9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "math/calculus/02-derivatives.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "02-derivatives"
+              "title": "New tab"
             }
           }
         ]
@@ -96,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/calculus/02-derivatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,16 +153,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "698760a7cf8159f0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -185,34 +190,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7f468c4461743700",
+  "active": "65d420a80ced3b9c",
   "lastOpenFiles": [
-    "cs/cs-basics/04-operating-system.md",
-    "math/calculus/01-limits.md",
+    "english/reading/06-critical-analysis.md.md",
+    "english/speaking/00-how-to-be-confident.md",
+    "english/writing/00-writing-process.md.md",
     "math/calculus/02-derivatives.md",
+    "math/calculus/01-limits.md",
     "math/calculus/00-functions.md",
     "english/reading/00-main-idea.md",
+    "cs/programming-basics/00-computation.md",
+    "cs/cs-basics/04-operating-system.md",
+    "plan.md",
+    "important.md",
+    "todo.md",
+    "feafw.md",
+    "README.md",
+    "humanities/ideology-of-pakistan/01-muslim-nationalism.md",
+    "humanities/ideology-of-pakistan/00-colonialism.md",
+    "cs/general/ascii-table.md",
     "english/reading/06-critical-analysis.md",
     "english/reading/04-literary-devices.md",
     "english/reading/05-patterns-of-organizations.md",
-    "english/speaking/00-how-to-be-confident.md",
     "english/reading/03-purpose.md",
     "english/reading/02-tone.md",
     "english/reading/01-style.md",
     "english/writing/00-process.md",
-    "cs/general/ascii-table.md",
     "humanities/islamic-studies/00-religion.md",
-    "README.md",
-    "important.md",
     "index.md",
-    "plan.md",
-    "humanities/ideology-of-pakistan/00-colonialism.md",
-    "cs/cs-basics/00-number-systems.md",
-    "humanities/islamic-studies/02-islamic-beliefs.md",
-    "humanities/islamic-studies/01-islam.md",
-    "humanities/islamic-studies/03-worship-system-of-islam.md",
-    "humanities/ideology-of-pakistan/01-muslim-nationalism.md",
-    "Excalidraw/Drawing 2026-09-17 23.32.48.excalidraw.md",
     "Excalidraw",
     "english/writing",
     "Untitled.base",
