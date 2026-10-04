@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "99782e399cc3e048",
+        "id": "3dfb0e51fc739c58",
         "type": "tabs",
         "children": [
           {
-            "id": "65d420a80ced3b9c",
+            "id": "0866b28c241b635e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "math/calculus/03-applications-of-derivative.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "03-applications-of-derivative"
             }
           }
         ]
@@ -190,34 +194,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "65d420a80ced3b9c",
+  "active": "0866b28c241b635e",
   "lastOpenFiles": [
-    "english/reading/06-critical-analysis.md.md",
-    "english/speaking/00-how-to-be-confident.md",
-    "english/writing/00-writing-process.md.md",
     "math/calculus/02-derivatives.md",
+    "math/calculus/03-applications-of-derivative.md",
+    "cs/cs-basics/04-operating-system.md",
+    "cs/cs-basics/02-cpu.md",
+    "cs/cs-basics/01-signedness-in-binary.md",
+    "cs/cs-basics/00-number-systems.md",
+    "humanities/ideology-of-pakistan/01-muslim-nationalism.md",
+    "humanities/ideology-of-pakistan/02-constitution-and-state.md",
+    "humanities/islamic-studies/04-islamic-jurisprudence.md",
+    "cs/programming-basics/00-computation.md",
+    "english/reading/06-critical-analysis.md.md",
+    "humanities/islamic-studies/02-islamic-beliefs.md",
+    "humanities/islamic-studies/03-worship-system-of-islam.md",
+    "humanities/ideology-of-pakistan/00-colonialism.md",
+    "english/writing/00-writing-process.md.md",
+    "english/speaking/00-how-to-be-confident.md",
     "math/calculus/01-limits.md",
     "math/calculus/00-functions.md",
     "english/reading/00-main-idea.md",
-    "cs/programming-basics/00-computation.md",
-    "cs/cs-basics/04-operating-system.md",
     "plan.md",
     "important.md",
     "todo.md",
     "feafw.md",
     "README.md",
-    "humanities/ideology-of-pakistan/01-muslim-nationalism.md",
-    "humanities/ideology-of-pakistan/00-colonialism.md",
     "cs/general/ascii-table.md",
     "english/reading/06-critical-analysis.md",
-    "english/reading/04-literary-devices.md",
-    "english/reading/05-patterns-of-organizations.md",
-    "english/reading/03-purpose.md",
-    "english/reading/02-tone.md",
-    "english/reading/01-style.md",
-    "english/writing/00-process.md",
-    "humanities/islamic-studies/00-religion.md",
-    "index.md",
     "Excalidraw",
     "english/writing",
     "Untitled.base",

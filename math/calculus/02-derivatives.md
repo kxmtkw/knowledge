@@ -3,8 +3,7 @@
 ## Definition
 
 > The derivative of a functon $f(x)$ with respect to the variable $x$ is the function $f'$ whose value at $x$ is defined as:
-
-$$ f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
+> $$ f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
 
 
 > [!info] Non-existent Limit
@@ -44,6 +43,16 @@ The tangent is a line that touches the graph at only point (say $c$). The slope 
 > [!tip] Tangents as Single Point Secants
 > As derivatives are given when you decrease the distance between the two boundary points such that the distance approaches zero. Tangents are the same. As the two points of the secants are brought closer and closer, eventually a single point will be reached and it will look like a tangent.
 
+### Mean Value Theorem
+
+The above formula for $m$ is given by the *Mean Value Theorem*. The theorem states that:
+
+> Suppose $y = f(x)$ is continuous over the closed interval $[a,b]$ and differentiable over the open interval $(a,b)$. Then there is atleast one point $c$ in $(a,b)$ at which:`
+> $$f'(c) = \frac{f(b)-f(a)}{b-a}$$
+
+Now this may seem a bit weird since the left side gives the average rate of change which is not equal to the instantaneous rate of change.
+Actually the derivate simply states that in between $a$ and $b$, there exists atleast one $c$ where both the average and instantaneous rates are equal to eachother.
+
 ## Chain Rule
 
 Chain rule is used for taking the derivatives of composite or nested functions. Practically, it is just applying the dervative rules recursively until the expression cannot be further differentiated.
@@ -56,14 +65,4 @@ Chain rule is used for taking the derivatives of composite or nested functions. 
 
 1. Differentiate both sides of the equation with respect to $x$, treating $y$ as a differentiable function of $x$.
 2. Collect the terms with $\frac{dy}{dx}$ on one side of the equation and solve for $\frac{dy}{dx}$.
-
-# Applications of Derivatives
-
-## Extrema
-
-## Increasing / Decreasing Functions
-
-## Concavity
-
-#todo
 
