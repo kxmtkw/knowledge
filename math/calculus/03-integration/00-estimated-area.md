@@ -7,7 +7,7 @@ To calculate (or rather estimate) the area under the graph, a technique can be u
 3. Calculating the area of each rectangle.
 4. Summing the area of all the rectangles.
 
-This procedure can be remembered by the `DRAS` method (Divide, Rectangle, Areas, Sum).
+Follow the model: `IRAS` Intervals, Rectangles, Area, Sum
 
 There are three ways in total to find the estimated area.
 
