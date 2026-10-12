@@ -20,6 +20,10 @@
 	+ Hook
 	+ Lead in Sentence
 	+ Thesis Statement (3 point)
+		+ Topic
+		+ Controlling statement
+		+ 3 Reasons
+	+ Transitional
 + Body
 	+ Topic
 	+ Supporting
