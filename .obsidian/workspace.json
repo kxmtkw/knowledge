@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english/reading/06-critical-analysis.md.md",
+                "file": "math/calculus/03-integration/02-integrals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06-critical-analysis.md"
+              "title": "02-integrals"
             }
           }
         ]
@@ -196,6 +196,10 @@
   },
   "active": "ed6626fc4a516b10",
   "lastOpenFiles": [
+    "cs/cs-basics/07-databases.md",
+    "cs/cs-basics/06-graphs.md",
+    "cs/cs-basics/05-maths-in-cs.md",
+    "english/reading/06-critical-analysis.md.md",
     "english/reading/04-literary-devices.md",
     "english/reading/05-patterns-of-organizations.md",
     "english/speaking/00-how-to-be-confident.md",
@@ -219,10 +223,6 @@
     "math/calculus/02-derivatives/05-related-rates.md",
     "Untitled.md",
     "math/calculus/02-derivatives/02-tangents-and-secants.md",
-    "math/calculus/02-derivatives/03-chain-rule.md",
-    "math/calculus/02-derivatives/04-implicit-differentiation.md",
-    "math/calculus/02-derivatives/01-instantaneous-change.md",
-    "math/calculus/02-derivatives/00-definition-and-rules.md",
     "math/calculus/03-integration",
     "english/writing",
     "Untitled.base",

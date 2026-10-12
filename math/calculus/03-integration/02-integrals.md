@@ -36,3 +36,5 @@ Some things to keep note of when finding the area under the graph:
 	3. Take the absolute for negative areas and then add.
 3. `Flipping the upper and lower limits negates the area`
 4. `Average area over an interval be found.` Just divide the definite integral by $1/(b-a)$
+
+#todo
