@@ -36,3 +36,12 @@ Some rules to remember:
 2. Different Rule (distributes over $-$)
 3. Constant Multiple Rule (if a constant $c$ exists in all terms, it can be taken common)
 4. Constant Rule (if the sum is just for a constant $c$, then the sum is just $n \cdot c$)
+
+# Riemann Sum
+
+For intervals that maybe of any size (or of the same size), the estimated sum formula is also known as the `Riemann Series`.
+$$A = \sum_{k=1}^{n} \Delta x_k \cdot f(c_k) $$
+If the intervals are of equal size, then $c_k$ can be found as:
+$$c_k = a + \Delta x \cdot k$$
+This sum $A$ is known as the `Riemann Series` over an interval. The above formula can also be written as:
+$$A = \sum_{k=1}^{n} \Delta x_k \cdot f(a + \Delta x \cdot k)$$

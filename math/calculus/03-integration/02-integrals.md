@@ -6,10 +6,6 @@ As it is know, the estimated area under the graph, using the summation notation,
 $$A = \Delta x \cdot \sum_{k=1}^{n} f(c_k) $$
 As these intervals can be of different widths, the above formula can be more accurately written as:
 $$A = \sum_{k=1}^{n} \Delta x_k \cdot f(c_k) $$
-This sum $A$ is known as the `Riemann Series` over an interval. The above formula can also be written as:
-$$A = \sum_{k=1}^{n} \Delta x_k \cdot f(a + \Delta x \cdot k)$$
-Where $a$ is the starting point of the interval over which the series is applied.
-
 Now, assume that we can change the number of intervals. As we know, more intervals -> more closer to actual area. Applying limit,
 $$A = \lim_{n \to \infty} \sum_{k=1}^{n} \Delta x_k \cdot f(c_k)$$
 The above formula basically tells us what the area approaches as the number of intervals of the estimated sum reach infinity.

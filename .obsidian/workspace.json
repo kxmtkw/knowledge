@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/calculus/03-integration/02-integrals.md",
+                "file": "math/calculus/03-integration/01-summation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-integrals"
+              "title": "01-summation"
             }
           }
         ]
@@ -196,6 +196,13 @@
   },
   "active": "ed6626fc4a516b10",
   "lastOpenFiles": [
+    "math/calculus/03-integration/03-fundamental-theorem-of-calculus.md",
+    "math/calculus/03-integration/02-integrals.md",
+    "math/calculus/03-integration/01-summation.md",
+    "math/calculus/02-derivatives/10-points-of-inflection.md",
+    "math/calculus/02-derivatives/09-concavity.md",
+    "math/calculus/02-derivatives/08-extrema.md",
+    "math/calculus/02-derivatives/07-monotonicity.md",
     "cs/cs-basics/07-databases.md",
     "cs/cs-basics/06-graphs.md",
     "cs/cs-basics/05-maths-in-cs.md",
@@ -204,9 +211,6 @@
     "english/reading/05-patterns-of-organizations.md",
     "english/speaking/00-how-to-be-confident.md",
     "english/writing/00-writing-process.md.md",
-    "math/calculus/03-integration/02-integrals.md",
-    "math/calculus/03-integration/03-fundamental-theorem-of-calculus.md",
-    "math/calculus/03-integration/01-summation.md",
     "math/calculus/03-integration/00-estimated-area.md",
     "math/calculus/02-derivatives/11-graph-sketching.md",
     "cs/cs-basics/04-operating-system.md",
@@ -215,10 +219,6 @@
     "Excalidraw/Drawing 2026-10-11 22.55.02.excalidraw.md",
     "Excalidraw",
     "important.md",
-    "math/calculus/02-derivatives/10-points-of-inflection.md",
-    "math/calculus/02-derivatives/09-concavity.md",
-    "math/calculus/02-derivatives/08-extrema.md",
-    "math/calculus/02-derivatives/07-monotonicity.md",
     "math/calculus/02-derivatives/06-critical-points.md",
     "math/calculus/02-derivatives/05-related-rates.md",
     "Untitled.md",
